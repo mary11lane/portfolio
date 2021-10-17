@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Montserrat:ital,wght@1,600&family=Roboto:ital@1&display=swap');
+
+* {
+	font-family: 'Roboto', sans-serif;	
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-family: 'Festive', cursive;
+	font-size: 70px;
+}
